@@ -1,7 +1,7 @@
 # Data_Analysis-and-Visualization
 Analyzing and Visualizing COVID-19 Data Trends
 Project Overview:
-In this project, I conducted a comprehensive analysis and visualization of COVID-19 data trends across various countries and continents. The primary tools utilized for data visualization were Matplotlib, Plotly, and Choropleth maps. The data was sourced from an uploaded dataset containing key metrics such as total cases, deaths, recoveries, and testing statistics.
+In this project, I conducted a comprehensive analysis and visualization of COVID-19 data trends across various countries and continents. The primary tools utilized for data visualization were Matplotlib, Plotly, and Choropleth maps. The data was sourced from three datasets containing key metrics such as total cases, deaths, recoveries, and testing statistics.
 
 Objectives:
 To identify and visualize COVID-19 trends across different countries and continents.
